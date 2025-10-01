@@ -1,0 +1,42 @@
+.tvr-reviews {
+    margin: 20px 0;
+}
+
+.tvr-reviews .comment-item-body {
+    margin-bottom: 20px;
+    padding: 15px;
+    border: 1px solid #eee;
+    border-radius: 5px;
+}
+
+.tvr-reviews .review-star {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 10px 0;
+    display: flex;
+}
+
+.tvr-reviews .review-star li {
+    margin-right: 5px;
+}
+
+.tvr-reviews .review-star i.fa-star {
+    color: #f39c12;
+}
+
+.tvr-reviews .detail {
+    margin-top: 10px;
+}
+
+.tvr-reviews .st-description {
+    overflow: hidden;
+}
+
+.tvr-reviews .st-link {
+    color: #0073aa;
+    text-decoration: none;
+}
+
+.tvr-reviews .st-link:hover {
+    text-decoration: underline;
+}
